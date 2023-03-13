@@ -7,3 +7,9 @@
 4. [grid vertical](https://pkufreshman.github.io/grid_vertical.html)
 5. [page default layout](https://pkufreshman.github.io/page_default_layout.html)
 
+
+
+## 计划中的设计
+### 德扑概率计算器（上帝视角版）
+### 德扑概率计算器（个人视角版）
+
